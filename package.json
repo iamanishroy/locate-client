@@ -1,13 +1,28 @@
 {
   "name": "locate-client",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A node module for locating clients",
   "main": "index.js",
   "scripts": {
     "test": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamanishroy/locate-client.git"
+  },
+  "keywords": [
+    "locate",
+    "client",
+    "location",
+    "trace",
+    "track"
+  ],
   "author": "Anish Roy",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamanishroy/locate-client/issues"
+  },
+  "homepage": "https://github.com/iamanishroy/locate-client#readme",
   "dependencies": {
     "axios": "^0.21.1"
   }
