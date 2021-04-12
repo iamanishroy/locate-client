@@ -13,6 +13,7 @@ const locateClient  =  require("locate-client");
 })();
 
 /*
+{
 	status: 'success',
 	country: 'India',
 	countryCode: 'IN',
@@ -26,6 +27,7 @@ const locateClient  =  require("locate-client");
 	isp: 'Bharti Airtel Limited',
 	org: 'Sai Complex',
 	as: 'AS45609 Bharti Airtel Ltd. AS for GPRS Service'
+}
 */
 ```
 
