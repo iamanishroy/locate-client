@@ -2,8 +2,7 @@
 
 A node module for locating clients.
 
-Usage limits
--------
+## Usage limits
 
  [ip-api.com](http://ip-api.com/) will automatically ban any IP addresses doing over 150 requests per minute. To unban your IP click [here](http://ip-api.com/docs/unban).
 
@@ -12,8 +11,7 @@ You are free to use [ip-api.com](http://ip-api.com/) for non-commercial use.   [
 For commercial, unlimited use see ip-api.com [pro service](http://ip-api.com/docs/pro).
 
 
-Install
--------
+##Install
 
     npm i --save locate-client
     
