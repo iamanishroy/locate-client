@@ -11,7 +11,7 @@ You are free to use [ip-api.com](http://ip-api.com/) for non-commercial use.   [
 For commercial, unlimited use see ip-api.com [pro service](http://ip-api.com/docs/pro).
 
 
-##Install
+## Install
 
     npm i --save locate-client
     
